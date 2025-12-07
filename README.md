@@ -2,7 +2,7 @@
 
 LibSGD is a simple game development library that provides a high level, easy to use 'scene graph' style API for writing games and apps.
 
-LibSGD also support loading and playing audio and will eventually include network functionality.
+LibSGD also supports loading and playing audio and will eventually include network functionality.
 
 The library is coded in C++, but the primary public API is pure 'C', making it highly compatible with a wide range of platforms and languages.
 
